@@ -2,6 +2,7 @@
 	"name": "@ctx-core/email",
 	"version": "4.1.18",
 	"description": "ctx-core email",
+	"type": "module",
 	"main": "lib.js",
 	"module": "lib.js",
 	"types": "lib.ts",
