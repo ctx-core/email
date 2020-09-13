@@ -2,6 +2,20 @@
 	"name": "@ctx-core/email",
 	"version": "4.1.35",
 	"description": "ctx-core email",
+	"keywords": [
+		"ctx-core",
+		"email"
+	],
+	"homepage": "https://github.com/ctx-core/email#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/email/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/email/issues"
+	},
+	"license": "Apache-2.0",
+	"author": "Brian Takita",
 	"main": "./index.js",
 	"module": "./index.js",
 	"types": "./index.ts",
@@ -9,28 +23,14 @@
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
 		"compile": "tsc -b",
-		"prepublishOnly": "npm run compile",
-		"exec": "$@"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ctx-core/email/issues"
-	},
-	"keywords": [
-		"ctx-core",
-		"email"
-	],
-	"author": "Brian Takita",
-	"license": "Apache-2.0",
-	"bugs": {
-		"url": "https://github.com/ctx-core/email/issues"
-	},
-	"homepage": "https://github.com/ctx-core/email#readme",
-	"publishConfig": {
-		"access": "public"
+		"exec": "$@",
+		"prepublishOnly": "npm run compile"
 	},
 	"devDependencies": {
 		"typescript": "^4.0.2"
+	},
+	"publishConfig": {
+		"access": "public"
 	},
 	"gitHead": "3456031e4969df7b6be219a3546ffb2c54dc6de6"
 }
