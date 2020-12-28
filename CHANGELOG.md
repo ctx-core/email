@@ -1,5 +1,11 @@
 # @ctx-core/email
 
+## 5.1.0
+
+### Minor Changes
+
+- \_valid\_\_email: \_email_valid,validate_email
+
 ## 5.0.6
 
 ### Patch Changes

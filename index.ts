@@ -1,1 +1,1 @@
-export * from './lib'
+export * from './_email_valid'
