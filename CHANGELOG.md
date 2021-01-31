@@ -1,5 +1,11 @@
 # @ctx-core/email
 
+## 6.0.0
+
+### Major Changes
+
+- src directory
+
 ## 5.1.0
 
 ### Minor Changes
