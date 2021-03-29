@@ -1,5 +1,11 @@
 # @ctx-core/email
 
+## 6.0.8
+
+### Patch Changes
+
+- version bump
+
 ## 6.0.7
 
 ### Patch Changes
