@@ -1,5 +1,11 @@
 # @ctx-core/email
 
+## 8.0.3
+
+### Patch Changes
+
+- fix: npm run clean
+
 ## 8.0.2
 
 ### Patch Changes
