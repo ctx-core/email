@@ -1,5 +1,11 @@
 # @ctx-core/email
 
+## 8.0.9
+
+### Patch Changes
+
+- dist directory
+
 ## 8.0.8
 
 ### Patch Changes
