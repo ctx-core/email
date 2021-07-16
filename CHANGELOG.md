@@ -1,5 +1,11 @@
 # @ctx-core/email
 
+## 9.0.8
+
+### Patch Changes
+
+- "main": "./dist/index.cjs"
+
 ## 9.0.7
 
 ### Patch Changes
