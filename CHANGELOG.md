@@ -1,5 +1,11 @@
 # @ctx-core/email
 
+## 9.0.4
+
+### Patch Changes
+
+- support cjs & esm: + "exports"
+
 ## 9.0.3
 
 ### Patch Changes
