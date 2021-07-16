@@ -1,5 +1,11 @@
 # @ctx-core/email
 
+## 9.0.9
+
+### Patch Changes
+
+- fix: cjs: load as a Promise
+
 ## 9.0.8
 
 ### Patch Changes
