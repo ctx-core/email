@@ -1,5 +1,11 @@
 # @ctx-core/email
 
+## 9.0.15
+
+### Patch Changes
+
+- typescript: ^4.4.2 -> ^4.4.3
+
 ## 9.0.14
 
 ### Patch Changes
