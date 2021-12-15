@@ -1,5 +1,11 @@
 # @ctx-core/email
 
+## 9.0.27
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+
 ## 9.0.26
 
 ### Patch Changes
