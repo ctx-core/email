@@ -1,5 +1,11 @@
 # @ctx-core/email
 
+## 9.0.29
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+
 ## 9.0.28
 
 ### Patch Changes
