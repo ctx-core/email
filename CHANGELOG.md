@@ -1,5 +1,11 @@
 # @ctx-core/email
 
+## 9.0.30
+
+### Patch Changes
+
+- \*.d.ts export
+
 ## 9.0.29
 
 ### Patch Changes
