@@ -1,5 +1,11 @@
 # @ctx-core/email
 
+## 9.0.31
+
+### Patch Changes
+
+- fix: build
+
 ## 9.0.30
 
 ### Patch Changes
