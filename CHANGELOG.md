@@ -1,5 +1,11 @@
 # @ctx-core/email
 
+## 9.0.33
+
+### Patch Changes
+
+- tsconfig.json: "target": "ES2021"
+
 ## 9.0.32
 
 ### Patch Changes
