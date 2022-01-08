@@ -1,5 +1,11 @@
 # @ctx-core/email
 
+## 9.0.38
+
+### Patch Changes
+
+- sideEffects = false
+
 ## 9.0.37
 
 ### Patch Changes
