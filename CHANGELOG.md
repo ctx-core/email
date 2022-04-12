@@ -1,5 +1,11 @@
 # @ctx-core/email
 
+## 9.0.39
+
+### Patch Changes
+
+- package.json: exports: update
+
 ## 9.0.38
 
 ### Patch Changes
