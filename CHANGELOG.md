@@ -1,5 +1,11 @@
 # @ctx-core/email
 
+## 9.0.42
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+
 ## 9.0.41
 
 ### Patch Changes
