@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/email",
-	"version": "9.2.10",
+	"version": "9.2.11",
 	"description": "ctx-core email",
 	"keywords": [
 		"ctx-core",
@@ -15,7 +15,11 @@
 		"url": "https://github.com/ctx-core/email.git"
 	},
 	"license": "Apache-2.0",
-	"author": "Brian Takita",
+	"author": {
+		"name": "Brian Takita",
+		"url": "https://briantakita.me",
+		"email": "info+ctx-core-email@briantakita.me"
+	},
 	"type": "module",
 	"files": [
 		"*.d.ts",
